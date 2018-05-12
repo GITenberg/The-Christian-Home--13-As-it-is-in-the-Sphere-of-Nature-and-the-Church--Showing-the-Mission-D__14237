@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5424'
     url: http://www.gutenberg.org/2009/agents/5424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14237#The-Christian-Home--13-As-it-is-in-the-Sphere-of-Nature-and-the-Church--Showing-the-Mission-D_
 gutenberg_issued: '2004-12-02'
 gutenberg_type: Text
 identifiers:
